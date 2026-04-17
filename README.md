@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on DuckLake
+I'm currently working on DuckLake, DLT & SQLMesh
 
 
 # 💻 Tech Stack:
